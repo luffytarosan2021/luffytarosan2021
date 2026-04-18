@@ -2,7 +2,7 @@
 A BTech Computer Science student passionate about Cloud Computing, DevOps, and Full-Stack Web Development. I enjoy building practical projects, exploring AI-based solutions, and continuously improving my coding skills. Currently learning and growing through hands-on development and hackathons.
 
 
-##My Socials:
+## My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sthadiya_103) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sthadiya567@gmal.com) 
 
 # Tech Stack:
